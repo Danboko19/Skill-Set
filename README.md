@@ -1,4 +1,4 @@
-# Skill-Set Analysis Report
+# Skill-Set Analysis
 
 ## Introduction
 This project analyzes a comprehensive dataset of tech professionals' skill sets, providing insights into their programming languages, databases, platforms, tools, and job roles.
